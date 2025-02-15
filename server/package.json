@@ -1,0 +1,12 @@
+{
+  "name": "server-pokemon",
+  "version": "0.0.1",
+  "description": "Node server package for pokemon game",
+  "private": true,
+  "author": "Kirill Butyrin",
+  "homepage": "https://github.com/JustTryAgain/test-pokemon",
+  "scripts": {},
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

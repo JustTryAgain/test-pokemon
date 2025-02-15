@@ -1,0 +1,10 @@
+{
+  "name": "root-pokemon",
+  "version": "0.0.1",
+  "description": "Root package for pokemon game",
+  "private": true,
+  "author": "Kirill Butyrin",
+  "homepage": "https://github.com/JustTryAgain/test-pokemon",
+  "scripts": {
+  }
+}

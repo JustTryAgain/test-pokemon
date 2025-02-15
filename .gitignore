@@ -1,0 +1,11 @@
+.DS_Store
+DS_Store
+.idea/
+**/.env
+**/.terraform
+**/node_modules/
+**/temp/
+**/coverage/
+**/build/
+**/dist/
+**/*.log
